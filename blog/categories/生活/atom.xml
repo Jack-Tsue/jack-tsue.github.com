@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 生活 | 我的宅]]></title>
   <link href="http://Jack-Tsue.github.com/blog/categories/生活/atom.xml" rel="self"/>
   <link href="http://Jack-Tsue.github.com/"/>
-  <updated>2012-04-25T23:06:02+08:00</updated>
+  <updated>2012-04-25T23:09:08+08:00</updated>
   <id>http://Jack-Tsue.github.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -28,9 +28,9 @@
 
 <p>而国人写的<a href="mouapp.com/">Mou</a>，一个<a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>的编辑器，的确非常好用，所见所得，简洁美观。推荐大家使用——vi(m)/emacs用户无视之。</p>
 
-<p>至于之前用<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>搭的博客，由于<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>的不可扩展性——一如苹果一贯的风格，所以迁移到其他博客实在是太令人忧郁了……干脆把他扔在那里吧，想要访问的话，可以去<a href="jack1991.com/iweb">jack1991.com/iweb</a>看看。</p>
+<p>至于之前用<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>搭的博客，由于<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>的不可扩展性——一如苹果一贯的风格，所以迁移到其他博客实在是太令人忧郁了……干脆把他扔在那里，想要访问的话，可以去<a href="jack1991.com/iweb">jack1991.com/iweb</a>看看，不过再等几天吧，等我把这个博客搞好了再说。</p>
 
-<p>用了<a href="http://octopress.org/">Octpress</a>+<a href="github.com">github</a>后，我的博客将会相对稳定下来。当年用WP，虽然简单易用，而且功能强大，插件无数，但总觉得臃肿不堪，速度其慢——完全不符合[Unix哲学]。后来转到了<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>，我以为这下简洁了、美观了、易用了，可是却又无法忍受那种无处下手的封闭。若想添加插件，只能用<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>的[HTML Snippet]，极度臃肿和混乱。也想过直接修改<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>生成的html文件，但是<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>生成的html非常不具有可读性，结构也不好，自己再修改就更难看了。</p>
+<p>用了<a href="http://octopress.org/">Octpress</a>+<a href="github.com">github</a>后，我的博客将会相对稳定下来。当年用WP，虽然简单易用，而且功能强大，插件无数，但总觉得臃肿不堪，速度其慢——完全不符合<a href="http://en.wikipedia.org/wiki/Unix_philosophy">Unix哲学</a>。后来转到了<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>，我以为这下简洁了、美观了、易用了，可是却又无法忍受那种无处下手的封闭。若想添加插件，只能用<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>的<a href="http://iwebfaq.org/site/iWeb_HTML_Snippet.html">HTML Snippet</a>，极度臃肿和混乱。也想过直接修改<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>生成的html文件，但是<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>生成的html非常不具有可读性，结构也不好，自己再修改就更难看了。</p>
 
 <p>而现在，世界都安静下来了，优雅起来了。</p>
 
