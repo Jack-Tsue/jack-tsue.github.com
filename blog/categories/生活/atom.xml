@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[我的宅]]></title>
-  <link href="http://Jack-Tsue.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 生活 | 我的宅]]></title>
+  <link href="http://Jack-Tsue.github.com/blog/categories/生活/atom.xml" rel="self"/>
   <link href="http://Jack-Tsue.github.com/"/>
   <updated>2012-04-25T21:53:58+08:00</updated>
   <id>http://Jack-Tsue.github.com/</id>
