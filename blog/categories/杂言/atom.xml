@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 杂言 | 我的宅]]></title>
   <link href="http://Jack-Tsue.github.com/blog/categories/杂言/atom.xml" rel="self"/>
   <link href="http://Jack-Tsue.github.com/"/>
-  <updated>2012-04-25T23:09:08+08:00</updated>
+  <updated>2012-04-25T23:24:29+08:00</updated>
   <id>http://Jack-Tsue.github.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -18,7 +18,9 @@
     <link href="http://Jack-Tsue.github.com/blog/2012/04/25/hello-octopress/"/>
     <updated>2012-04-25T21:24:00+08:00</updated>
     <id>http://Jack-Tsue.github.com/blog/2012/04/25/hello-octopress</id>
-    <content type="html"><![CDATA[<p>考完G，终于有空把我的博客从<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>中解脱出来了。现在换了最近热得发烫的<a href="http://octopress.org/">Octpress</a>——一个基于<a href="https://github.com/mojombo/jekyll">jekyll</a>的静态网页生成器的框架。</p>
+    <content type="html"><![CDATA[<p><img src="http://dribbble.com/system/users/1607/screenshots/222057/octopress.png?1311679721" alt="Alt text" /></p>
+
+<p>考完G，终于有空把我的博客从<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>中解脱出来了。现在换了最近热得发烫的<a href="http://octopress.org/">Octpress</a>——一个基于<a href="https://github.com/mojombo/jekyll">jekyll</a>的静态网页生成器的框架。</p>
 
 <p>过程琐碎，实在无需赘述，整个的部署过程跟随着<a href="http://octopress.org/docs/">官方指南</a>一步一步做，自然水到渠成。</p>
 
@@ -27,6 +29,9 @@
 <p>说实话，像<a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>这样轻量级的语言，才能够真正做到让我专注于文字本身。</p>
 
 <p>而国人写的<a href="mouapp.com/">Mou</a>，一个<a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>的编辑器，的确非常好用，所见所得，简洁美观。推荐大家使用——vi(m)/emacs用户无视之。</p>
+
+<!-- more -->
+
 
 <p>至于之前用<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>搭的博客，由于<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>的不可扩展性——一如苹果一贯的风格，所以迁移到其他博客实在是太令人忧郁了……干脆把他扔在那里，想要访问的话，可以去<a href="jack1991.com/iweb">jack1991.com/iweb</a>看看，不过再等几天吧，等我把这个博客搞好了再说。</p>
 
