@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[我的宅]]></title>
-  <link href="http://Jack-Tsue.github.com/atom.xml" rel="self"/>
-  <link href="http://Jack-Tsue.github.com/"/>
-  <updated>2012-04-25T23:24:29+08:00</updated>
-  <id>http://Jack-Tsue.github.com/</id>
+  <link href="http://jack1991.com/atom.xml" rel="self"/>
+  <link href="http://jack1991.com/"/>
+  <updated>2012-04-26T13:37:01+08:00</updated>
+  <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress!]]></title>
-    <link href="http://Jack-Tsue.github.com/blog/2012/04/25/hello-octopress/"/>
+    <link href="http://jack1991.com/blog/2012/04/25/hello-octopress/"/>
     <updated>2012-04-25T21:24:00+08:00</updated>
-    <id>http://Jack-Tsue.github.com/blog/2012/04/25/hello-octopress</id>
-    <content type="html"><![CDATA[<p><img src="http://dribbble.com/system/users/1607/screenshots/222057/octopress.png?1311679721" alt="Alt text" /></p>
+    <id>http://jack1991.com/blog/2012/04/25/hello-octopress</id>
+    <content type="html"><![CDATA[<p><img src="http://www.minizo.com/upload/2010/12/2582449406.jpg" alt="OCTOPRESS LOGO" /></p>
 
 <p>考完G，终于有空把我的博客从<a href="www.apple.com.cn/ilife/iweb/">iWeb</a>中解脱出来了。现在换了最近热得发烫的<a href="http://octopress.org/">Octpress</a>——一个基于<a href="https://github.com/mojombo/jekyll">jekyll</a>的静态网页生成器的框架。</p>
 

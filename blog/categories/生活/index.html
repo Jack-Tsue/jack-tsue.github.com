@@ -32,12 +32,18 @@
 <div class="right">
 	<form class="search right" action="http://google.com/search" method="get">
 		<input class="left" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:Jack-Tsue.github.com">
+		<input type="hidden" name="q" value="site:jack1991.com">
 	</form>
 	<div class="social right">
 		
 		
+		<a class="google" href="https://plus.google.com/116335240643851138353" title="Google+">Google+</a>
 		
+		
+		<a class="twitter" href="http://twitter.com/WeisuoJack" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/Jack-Tsue" title="GitHub">GitHub</a>
 		
 		
 		
@@ -48,6 +54,20 @@
 
 </header>
 	
+<div id="banner" class="inner">
+	<div class="container">
+		<ul class="feed"></ul>
+	</div>
+	<small><a href="http://twitter.com/WeisuoJack">WeisuoJack</a> @ <a href="http://twitter.com">Twitter</a></small>
+	<div class="loading">Loading...</div>
+</div>
+<script src="/javascripts/twitter.js"></script>
+<script type="text/javascript">
+	(function($){
+		$('#banner').getTwitterFeed('WeisuoJack', 4, false);
+	})(jQuery);
+</script>
+
 	<div id="content" class="inner">
 <section class="archive">
 	
