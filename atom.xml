@@ -4,7 +4,7 @@
   <title><![CDATA[我的宅]]></title>
   <link href="http://jack1991.com/atom.xml" rel="self"/>
   <link href="http://jack1991.com/"/>
-  <updated>2012-04-28T19:25:24+08:00</updated>
+  <updated>2012-04-28T19:30:56+08:00</updated>
   <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[HCI_HW1]]></title>
+    <title type="html"><![CDATA[HCI大作业立项说明]]></title>
     <link href="http://jack1991.com/blog/2012/04/28/hci-hw1/"/>
     <updated>2012-04-28T16:13:00+08:00</updated>
     <id>http://jack1991.com/blog/2012/04/28/hci-hw1</id>
-    <content type="html"><![CDATA[<h1>HCI大作业立项说明</h1>
-
-<h2>1. 产品命名</h2>
+    <content type="html"><![CDATA[<h2>1. 产品命名</h2>
 
 <p><strong>&#8220;山河志&#8221;旅行分享类社交网络</strong></p>
 
