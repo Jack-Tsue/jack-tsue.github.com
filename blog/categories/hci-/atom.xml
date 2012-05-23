@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: HCI, | 我的宅]]></title>
+  <link href="http://jack1991.com/blog/categories/hci-/atom.xml" rel="self"/>
+  <link href="http://jack1991.com/"/>
+  <updated>2012-05-23T20:01:54+08:00</updated>
+  <id>http://jack1991.com/</id>
+  <author>
+    <name><![CDATA[Jack]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[HCI大作业用户建模]]></title>
+    <link href="http://jack1991.com/blog/2012/05/11/hci-hw2/"/>
+    <updated>2012-05-11T21:49:00+08:00</updated>
+    <id>http://jack1991.com/blog/2012/05/11/hci-hw2</id>
+    <content type="html"><![CDATA[<h1>1. 人物角色定义</h1>
+
+<hr />
+
+<h2>焦点人物角色</h2>
+
+<h3>任务定义</h3>
+
+<h3>定义的中间步骤</h3>
+
+<h4>片段</h4>
+
+<h4>分组</h4>
+
+<h4>细节</h4>
+
+<h2>次要人物角色</h2>
+
+<h3>任务定义</h3>
+
+<h3>定义的中间步骤</h3>
+
+<h4>片段</h4>
+
+<h4>分组</h4>
+
+<h4>细节</h4>
+
+<h1>2. 场景建立</h1>
+
+<hr />
+
+<h1>3. 挖掘用户核心需求</h1>
+
+<hr />
+]]></content>
+  </entry>
+  
+</feed>
