@@ -4,7 +4,7 @@
   <title><![CDATA[我的宅]]></title>
   <link href="http://jack1991.com/atom.xml" rel="self"/>
   <link href="http://jack1991.com/"/>
-  <updated>2012-05-23T20:01:54+08:00</updated>
+  <updated>2012-06-07T19:45:56+08:00</updated>
   <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日记#0]]></title>
+    <link href="http://jack1991.com/blog/2012/05/29/diary0/"/>
+    <updated>2012-05-29T19:37:00+08:00</updated>
+    <id>http://jack1991.com/blog/2012/05/29/diary0</id>
+    <content type="html"><![CDATA[<blockquote><p>A diary is a record (originally in handwritten format) with discrete entries arranged by date reporting on what has happened over the course of a day or other period.</p>
+
+<p><strong><em>From <a href="http://en.wikipedia.org/wiki/Diary">Wikipedia</a></em></strong>
+My blog has been built for a long time, while I presented few things on the stage, with several times of corruptions of the Site. Now it seems to be totally blocked by <a href="http://en.wikipedia.org/wiki/GFW">GFW</a>, and when it comes to me that almost nobody I familliar can access it, I repick the ambitious and passion to write something.
+My English written is neither standard nor, but far far away, mature. However,  according to the experience of myself in Chinese writting, I get the conclusion that the more one writes, the more one improves in writing skills, together with, of course, large amount of reading, through which one can learn new words and phrases, and correct mistakes made in own articles, improve the use of language.
+So from now on, I will both write a lot and read a lot.
+Back to the diary, it may written in English, and will also, absolutely, in Chinese, both morden and classic. The concerning points are as follows:
+* What I hear
+* What I do and learn
+* What I think
+* My inspirations
+* My TODOs</p>
+
+<h1>What I hear</h1>
+
+<p>recently, <a href="www.facebook.com">Facebook</a> is connected to the purchase rumors of <a href="www.opera.com">Opera</a>, a famous Internet browser.  And the letter company&#8217;s stock rate has raised by 20% as a result.</p>
+
+<h1>What I do</h1>
+
+<p>These days I&#8217;ve been tired with optimization of SQL. My DB instructor assigned a homework to insert 1 million random(but has some constrains and conditions) data into a database, and the speed determines our scores. I use Java to code a program with SQLite database, running on the computer with core-i3 3.4GHz and 4G memory. I tried my best and the time was limited into 3s to insert one million data. It may be fast enough for java, but I heard that someone can use less than 1 second to finish the job, with C and MySQL. What puzzled me is that the guy did not even use batch or tansaction to controll, but just the easiest way &#8211; insert 10k times, and 100 rows a time.
+Anyway, I&#8217;ve learnt the basic knowledge of DB that the less I/O, the faster you use. And this is why we close the auto_commit and add all queries to batch.</p>
+
+<h1>What I think</h1>
+
+<p>My thoughts, like the moon of a cloudy midnight, always fade beneath and shine for a while, and fade again without any consciousness.
+I will try to recall my extremely wild and fragile thougths, thus to record and review.
+These days I&#8217;m thinking a lot of stuffs, relating to different aspects. But as I said above, I can&#8217;t recall any&#8230; I will write some at next time.</p>
+
+<h1>My inspirations</h1>
+
+<p>I&#8217;m thinking about an app running on iOS device, and mainly provide some random information or materials to users. It is designed for the people who don&#8217;t have the idea what to do when they feel boring. As a convey, when a man was bored, he just slide to unlock, switch the home screen and lock again. I believe it is beacause, besides some SNS, users already know what would expect in his phone.</p>
+
+<h1>My TODOs</h1>
+
+<p>Homework from Compilers and review(or preview?) of all my curriculums.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA['忠'与民族主义]]></title>
@@ -87,49 +130,6 @@
 <p>至于仇视八国联军的人，肯定没有见过一张老照片，摄于八国联军初入北京城。当时联军从河道入城，百姓都站在路边围观，而非大家想象中的害怕或者愤怒。为什么？因为八国联军虽然是强盗，是来抢东西的，可是抢的是皇帝，而皇帝也不过是个合法的强盗罢了；圆明园虽然被烧了，可烧之前不管它有多华美多壮观，我老百姓也进不去，等于没有，烧了我还能站进去望一眼呢。我想这就是老百姓最纯朴的思想。你可以说这是当时百姓实在是太冷漠太愚昧了，可我问你，如果一直外国军队要城管打掉，你会怎么做？实在是很纠结，所以大多数人都会袖手旁观吧。当然，也自然会有为外国军队带路的人和为城管而战的人。再想想崖山之战那10万自愿赴死殉国的百姓吧，一个政权能够如此得民心，不可能只靠“愚忠”的洗脑。</p>
 
 <p>如今中国的民族主义在有意无意的引导下，已经发酵得十分膨胀了。如果能够保持理智，尊重事实，同时去了解自己的民族和文化，那将是民族的大幸，团结的中国人必能创造新的辉煌；如果一味地自我膨胀，或者一味地愚忠，那么下一站——纳粹。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HCI大作业用户建模]]></title>
-    <link href="http://jack1991.com/blog/2012/05/11/hci-hw2/"/>
-    <updated>2012-05-11T21:49:00+08:00</updated>
-    <id>http://jack1991.com/blog/2012/05/11/hci-hw2</id>
-    <content type="html"><![CDATA[<h1>1. 人物角色定义</h1>
-
-<hr />
-
-<h2>焦点人物角色</h2>
-
-<h3>任务定义</h3>
-
-<h3>定义的中间步骤</h3>
-
-<h4>片段</h4>
-
-<h4>分组</h4>
-
-<h4>细节</h4>
-
-<h2>次要人物角色</h2>
-
-<h3>任务定义</h3>
-
-<h3>定义的中间步骤</h3>
-
-<h4>片段</h4>
-
-<h4>分组</h4>
-
-<h4>细节</h4>
-
-<h1>2. 场景建立</h1>
-
-<hr />
-
-<h1>3. 挖掘用户核心需求</h1>
-
-<hr />
 ]]></content>
   </entry>
   
