@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 日记, | 我的宅]]></title>
   <link href="http://jack1991.com/blog/categories/日记-/atom.xml" rel="self"/>
   <link href="http://jack1991.com/"/>
-  <updated>2012-06-07T19:45:56+08:00</updated>
+  <updated>2012-06-07T19:52:23+08:00</updated>
   <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -20,16 +20,26 @@
     <id>http://jack1991.com/blog/2012/05/29/diary0</id>
     <content type="html"><![CDATA[<blockquote><p>A diary is a record (originally in handwritten format) with discrete entries arranged by date reporting on what has happened over the course of a day or other period.</p>
 
-<p><strong><em>From <a href="http://en.wikipedia.org/wiki/Diary">Wikipedia</a></em></strong>
-My blog has been built for a long time, while I presented few things on the stage, with several times of corruptions of the Site. Now it seems to be totally blocked by <a href="http://en.wikipedia.org/wiki/GFW">GFW</a>, and when it comes to me that almost nobody I familliar can access it, I repick the ambitious and passion to write something.
-My English written is neither standard nor, but far far away, mature. However,  according to the experience of myself in Chinese writting, I get the conclusion that the more one writes, the more one improves in writing skills, together with, of course, large amount of reading, through which one can learn new words and phrases, and correct mistakes made in own articles, improve the use of language.
-So from now on, I will both write a lot and read a lot.
-Back to the diary, it may written in English, and will also, absolutely, in Chinese, both morden and classic. The concerning points are as follows:
-* What I hear
-* What I do and learn
-* What I think
-* My inspirations
-* My TODOs</p>
+<p><strong> From <a href="http://en.wikipedia.org/wiki/Diary">Wikipedia</a></strong></p></blockquote>
+
+<p>My blog has been built for a long time, while I presented few things on the stage, with several times of corruptions of the Site. Now it seems to be totally blocked by <a href="http://en.wikipedia.org/wiki/GFW">GFW</a>, and when it comes to me that almost nobody I familliar can access it, I repick the ambitious and passion to write something.</p>
+
+<p>My English written is neither standard nor, but far far away, mature. However,  according to the experience of myself in Chinese writting, I get the conclusion that the more one writes, the more one improves in writing skills, together with, of course, large amount of reading, through which one can learn new words and phrases, and correct mistakes made in own articles, improve the use of language.</p>
+
+<!-- more -->
+
+
+<p>So from now on, I will both write a lot and read a lot.
+Back to the diary, it may written in English, and will also, absolutely, in Chinese, both morden and classic. The concerning points are as follows:</p>
+
+<ul>
+<li>What I hear</li>
+<li>What I do and learn</li>
+<li>What I think</li>
+<li>My inspirations</li>
+<li>My TODOs</li>
+</ul>
+
 
 <h1>What I hear</h1>
 
@@ -42,8 +52,9 @@ Anyway, I've learnt the basic knowledge of DB that the less I/O, the faster you 
 
 <h1>What I think</h1>
 
-<p>My thoughts, like the moon of a cloudy midnight, always fade beneath and shine for a while, and fade again without any consciousness.
-I will try to recall my extremely wild and fragile thougths, thus to record and review.
+<p>My thoughts, like the moon of a cloudy midnight, always fade beneath and shine for a while, and fade again without any consciousness.</p>
+
+<p>I will try to recall my extremely wild and fragile thougths, thus to record and review.
 These days I'm thinking a lot of stuffs, relating to different aspects. But as I said above, I can't recall any... I will write some at next time.</p>
 
 <h1>My inspirations</h1>
@@ -52,7 +63,7 @@ These days I'm thinking a lot of stuffs, relating to different aspects. But as I
 
 <h1>My TODOs</h1>
 
-<p>Homework from Compilers and review(or preview?) of all my curriculums.</p></blockquote>
+<p>Homework from Compilers and review(or preview?) of all my curriculums.</p>
 ]]></content>
   </entry>
   
