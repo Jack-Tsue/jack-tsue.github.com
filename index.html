@@ -105,7 +105,13 @@
 
 <p>后来发现一个更间接的巧妙解决方法，但通用性就不如以OO思维推导出来的了：</p>
 
-<p> { % gist 3696536 %}</p>
+<div><script src='https://gist.github.com/3696536.js?file='></script>
+<noscript><pre><code>int f(int n)
+{
+    int sum = 1;
+    return ((n-1) &amp;&amp; !(sum = n + f(n-1))) | sum;
+}</code></pre></noscript></div>
+
 
 <p>不知道大家有没有其他的思路？</p>
 
