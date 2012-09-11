@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 杂言 | 我的宅]]></title>
   <link href="http://jack1991.com/blog/categories/杂言/atom.xml" rel="self"/>
   <link href="http://jack1991.com/"/>
-  <updated>2012-08-20T16:56:13+08:00</updated>
+  <updated>2012-09-11T14:46:00+08:00</updated>
   <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[to.morrow]]></title>
+    <link href="http://jack1991.com/blog/2012/08/22/to-dot-morrow/"/>
+    <updated>2012-08-22T17:09:00+08:00</updated>
+    <id>http://jack1991.com/blog/2012/08/22/to-dot-morrow</id>
+    <content type="html"><![CDATA[<p>刘慈欣, 被圈中人成为大刘. 我个人认同这个称呼, 倒不是因其所谓的"伟大", 而是因为大刘的文法. 他的科幻, 不仅"硬", 而且永远透着一股浓郁的末日情怀. 宏大, 黑暗, 永恒, 绝望. 他的目光, 望向着人类的终极; 他的世界, 建构于崩塌之前.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress!]]></title>
