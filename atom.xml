@@ -4,7 +4,7 @@
   <title><![CDATA[我的宅]]></title>
   <link href="http://jack1991.com/atom.xml" rel="self"/>
   <link href="http://jack1991.com/"/>
-  <updated>2012-09-11T15:54:40+08:00</updated>
+  <updated>2013-01-23T22:53:32+08:00</updated>
   <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[个人使用kindle的经验之谈]]></title>
+    <link href="http://jack1991.com/blog/2013/01/23/kinle-tips/"/>
+    <updated>2013-01-23T21:03:00+08:00</updated>
+    <id>http://jack1991.com/blog/2013/01/23/kinle-tips</id>
+    <content type="html"><![CDATA[<p>先推荐一本我最近读的书, &#8220;黑客与画家&#8221;.](http://book.duokan.com/dkdetail.html?book_id=25215787c0574dab9e69a48fa8ea616b&amp;title=%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6) 这本书值得所有人读, 我屡屡为作者的远见灼识所折服拍案, 有着读一页就忍不住浮一大白的畅快淋漓.</p>
+
+<p>然后开始一段闲扯.</p>
+
+<p>虽然以iPad为首的平板们对电纸书的冲击使这个类型的设备远没有达到我预计(或者说期望)的风靡度和流通量, 但爱好看书的电子设备爱好者应该还是会很喜欢kindle(当然还有其他一些品牌)的k系列电纸书.</p>
+
+<p>乍一看, 低分辨率和黑白屏的kindle k系列看起来像是上个世纪的&#8221;高科技&#8221;产品, 不过amazon对互联网的理解会让熟悉它的人觉得其无比性感. 当年amazon的推广主要着重于kindle其60秒内购买书籍的便利. 而由于很多复杂的原因, 在大陆我们很难享受到这种便利, 所以大多数国人认为买了kindle也就是下点盗版书搞点复习资料用电脑连接了kindle存进去然后看看罢了. 如果抛开kindle强大的推送功能(后文中会介绍), 其实也差不多就是这样. 即便你能够通过一些手段得以在kindle内购买书籍, 但中文书籍的严重匮乏也仍然让绝大多数用户感到遗憾. 我们不可能总买O&#8217;Reilly的cookbook, 作为一个喜欢假装自己很文化的程序员, 有时候我也想要买钱穆的书.</p>
+
+<!--more-->
+
+
+<p>还好几年前有一个团队(即<a href="]duokan.com">多看</a>), 做了一个kindle上的本土化操作系统. 对于这个团队我还是很喜爱的, 虽然从他们土鳖的眨眼笑图标可以看出他们当年初创时是没有设计师的, 但幸好作为一个黑白屏功能机上的操作系统, 用户对精致设计的审美渴望远没有满足自己对功能的需求来得强烈. 多看在推出自己的书城, 销售精美的正版书籍, 不再提供显而易见的劣质盗版下载后, 其系统已经基本可以取代kindle的原生系统了(如果你能够忍受那个愚蠢的眨眼笑logo的话). 同时, 作为一个平台, 由于它的壮大, 吸引了一些相关开发者的加入, 它的功能也在进一步丰富.</p>
+
+<p>多看被小米收购后, 完成了从startup游击队变成正规军的转变. 有些事情, 游击队能做, 而正规军是绝对不能做的. 首当其冲的便是版权问题. 多看致力于构建内容展示的平台, 自然要提供内容来源. 多看阅读还好, 被小米收购后, 有的是资本去和出版商谈正版授权; 可是对于多看另一个产品多看电视(基于Apple TV的操作系统), 处境就尴尬多了. 小米是必然要发展小米盒子的, 视频内容提供商是必然不会授权自己的内容在非正规途径销售产品(ATV)上展示的, 多看电视的结局嘛… 对于多看来说, 这个项目可能惟一的用处就是积累用户和相关经验, 好在被收购时谈个更好的价格, 因为受限政策, 这个项目从一开始就注定了失败的结局. 可怜了忠诚的用户和为之奋斗的员工啊. <a href="http://bbs.duokan.com/forum/thread-75384-1-1.html">点击这句话可以看到多看论坛上一篇略显悲壮的帖子</a>.</p>
+
+<p>好了, 废话讲这么多, 下面介绍几个对于kindle非常有用的插件和网站(无论你使用的是多看系统还是kindle原生系统):</p>
+
+<h1><a href="http://klip.me">send to kindle插件</a></h1>
+
+<p>这是一个chrome上的插件, 感谢<a href="http://klip.me">klip.me</a>. 对于这个插件, 介绍起来实在是简单, 一句话: 通过该插件和推送可以让kindle实现pocket的主要功能(即稍后读, 诸如分享这类的附加功能首先操作系统无法实现).</p>
+
+<p>你只要注册有amazon或者多看的账户, 就可以凭借推送邮箱实现推送功能(比如直接发附有kindle所支持格式附件的邮件, 在kindle联网后会自动下载至设备). 该插件在设置时, 多看的用户有个注意事项, 如下图所示, 该选项框一定要勾选哦.</p>
+
+<p><img src="https://dl.dropbox.com/u/64365033/klipme.png" alt="你懂的" /></p>
+
+<p>填完邮箱后save即可. 以后看到了自己喜爱的文章, 可以直接点击chrome上的那个蓝底白K按钮, 适当编辑完要发生的内容后推到自己的kindle上即可. 然后等一个闲暇时刻, 慢慢品味吧.</p>
+
+<h1><a href="http://www.mydogear.com/">狗耳朵</a></h1>
+
+<p>看到了喜欢的文章保存下来自然让人惊喜, 但如果能够订阅就更好了. 基于对品牌的信任, 某些来源提供的内容我们总是愿意一看的(比如<a href="http://www.mydogear.com/read/4">知乎精选</a>). 那么<a href="http://www.mydogear.com/">狗耳朵</a>就能很好的满足我们这样的需求.</p>
+
+<p><img src="https://dl.dropbox.com/u/64365033/dogear.png" alt="主页如图所示" /></p>
+
+<p><a href="http://www.mydogear.com/">狗耳朵</a>不仅提供了很多来源给用户订阅, 也支持google reader内容直接推送到kindle上(如果你是个GR订阅狂人, 那么把内容都推到kindle上将是个灾难).</p>
+
+<h1><a href="http://www.mlook.mobi/">mLOOK</a></h1>
+
+<p>目前多看书城的书还不是很全, 同时, 还是有很多人倾向于不付费看书. 我很不推荐这一点, 不花钱可以一次性下载100本书存在kindle中, 但是你真的会看吗? 当你真的要购买一本书时, 你会反复斟酌: 我真的需要吗? 付费, 即控制了人天生的收集欲望, 又保证你会尽可能看完这本书, 同时还让这本书的作者获利, 激励他写下去, 何乐不为? 6块钱, 12块钱, 18块钱, 不是那么贵.</p>
+
+<p>但不管怎样, 人总有各种原因, 要下一本盗版书看的, 既然是谈论我的经验, 我自然要给出解决方案. 那就是<a href="http://www.mlook.mobi/">mLook</a>. 类似的书仓有很多, 但mlook的杀手级应用是它的chrome插[件douban2mLoo][(https://chrome.google.com/webstore/detail/douban2mlook/pklegbobemfenpfammapobkcoippinhp)]k, 顾名思义, 就是从<a href="http://book.douban.com/">豆瓣读书</a>某本书的页面直接导到mLook该书的下载页面(当然会出现mLook没这本书的情况, 用户可以自己上传补完).</p>
+
+<p><img src="https://dl.dropbox.com/u/64365033/mlook.png" alt="图标颜色得改啊!" /></p>
+
+<p>这对于很多习惯在<a href="http://book.douban.com/">豆瓣图书</a>活动的书虫们真的是一个福音. 即便你不用豆瓣, 你也可以在下定决心读一本书之前先去看看其他人的评价然后再去下载(下决心的时间是值得付出的).</p>
+
+<h1><a href="http://book.duokan.com">多看书城</a></h1>
+
+<p>好吧, 这才是王道.</p>
+
+<p>书籍的排版和设计不如字节舍经验, 不过技术书籍很多(相对而言).</p>
+
+<p>放一张大图让大家&#8221;欣赏欣赏&#8221;多看的logo…</p>
+
+<p><img src="http://img.starapk.com/images/20120823043113406.jpg" alt="真丑!" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[求1+2+…+n]]></title>
