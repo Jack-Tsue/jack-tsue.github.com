@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 经验, | 我的宅]]></title>
   <link href="http://jack1991.com/blog/categories/经验-/atom.xml" rel="self"/>
   <link href="http://jack1991.com/"/>
-  <updated>2013-01-23T23:14:48+08:00</updated>
+  <updated>2013-01-23T23:23:03+08:00</updated>
   <id>http://jack1991.com/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -18,7 +18,7 @@
     <link href="http://jack1991.com/blog/2013/01/23/kinle-tips/"/>
     <updated>2013-01-23T21:03:00+08:00</updated>
     <id>http://jack1991.com/blog/2013/01/23/kinle-tips</id>
-    <content type="html"><![CDATA[<p>先推荐一本我最近读的书, <a href="http://book.duokan.com/dkdetail.html?book_id=25215787c0574dab9e69a48fa8ea616b&amp;title=%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6">"黑客与画家"</a>. 这本书值得所有人读, 我屡屡为作者的远见灼识所折服拍案, 有着读一页就忍不住浮一大白的畅快淋漓. 译者有些小问题, 比如把作者想说的hack猜测成了terrific, 但总体来说令我满意.</p>
+    <content type="html"><![CDATA[<p>先推荐一本我最近读的书, <a href="http://book.duokan.com/dkdetail.html?book_id=25215787c0574dab9e69a48fa8ea616b&amp;title=%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6">"黑客与画家"</a>. 这本书值得所有人读, 我屡屡为作者的远见灼识所折服拍案, 有着读一页就忍不住浮一大白的畅快淋漓. 译者有些小问题, 比如把作者暗指的hack猜测成了terrific(这两个词都能够表示相反的两面, 但结合上下文应当是hack而非后者), 但总体来说令我满意.</p>
 
 <p>然后开始一段闲扯.</p>
 
@@ -37,7 +37,7 @@
 
 <h1><a href="http://klip.me">send to kindle插件</a></h1>
 
-<p>这是一个chrome上的插件, 感谢<a href="http://klip.me">klip.me</a>. 对于这个插件, 介绍起来实在是简单, 一句话: 通过该插件和推送可以让kindle实现pocket的主要功能(即稍后读, 诸如分享这类的附加功能首先操作系统无法实现).</p>
+<p>这是一个chrome上的插件, 感谢<a href="http://klip.me">klip.me</a>. 对于这个插件, 介绍起来实在是简单, 一句话: 通过该插件和推送可以让kindle实现pocket的主要功能(即稍后读, 诸如分享这类的附加功能操作系统没有提供实现的机会).</p>
 
 <p>你只要注册有amazon或者多看的账户, 就可以凭借推送邮箱实现推送功能(比如直接发附有kindle所支持格式附件的邮件, 在kindle联网后会自动下载至设备). 该插件在设置时, 多看的用户有个注意事项, 如下图所示, 该选项框一定要勾选哦.</p>
 
